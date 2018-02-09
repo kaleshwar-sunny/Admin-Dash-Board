@@ -1,0 +1,46 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.navbar{
+    margin: 0 10px;
+    border-radius: 10px;
+}
+.fa-slack{
+    font-size: 15px;
+}
+.slack{
+    font-size: 23px;
+}
+.fluid-sidebar{
+    margin-top: 70px;
+}
+.nav-sidebar >li >a{
+    padding-top: 20px;
+    text-align: center;
+}
+.dash-head{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.placeholders img{
+    margin-bottom: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
